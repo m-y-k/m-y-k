@@ -59,17 +59,22 @@ Git · GitHub · GitLab · Maven · IntelliJ IDEA · VS Code
 
 ---
 
-### ⭐ Featured Project
+### 🚀 Featured Project
 
-#### 🏥 Clinic & Medicine Inventory Management System
+#### 🎮 AOG India — Esports & Creator Platform
 
-A Java-based platform for doctors and staff to manage patient appointments,
-including support for multiple image uploads.
+[**AOG India**](https://aogindia.com/) is an esports organization and creator-focused platform that I founded and continue to build alongside my engineering career.
 
-**Tech:** Java · Spring Boot · MongoDB · REST APIs
+The platform brings together gaming creators, brands, sponsorship opportunities, and the esports community.
 
-[View Project →](https://github.com/m-y-k/clinic-medicine-inventory-management-system)
+**What I work on:**
+- 🏗️ Building and maintaining the platform and its digital presence
+- 🤝 Managing creator and brand partnerships
+- 📢 Developing sponsorship and campaign opportunities
+- 📈 Working on community and creator growth
+- ⚙️ Exploring technology and automation to improve operations
 
+**Website:** [aogindia.com](https://aogindia.com/)
 ---
 
 ### 🌱 Currently Learning
