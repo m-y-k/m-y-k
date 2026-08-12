@@ -1,67 +1,141 @@
-<h1 align="center">Hi, I'm Mohammad Yusuf Khan 👋</h1>
-<h3 align="center">SDE @ Flipkart · Java / Spring Boot Backend Engineer · Builder of AOG India</h3>
+# Hi, I'm Mohammad Yusuf Khan 👋
 
-<p align="center">
-  <a href="https://mohammadyusufkhan.in"><img src="https://img.shields.io/badge/Portfolio-mohammadyusufkhan.in-blue?style=for-the-badge" /></a>
-  <a href="https://aogindia.com"><img src="https://img.shields.io/badge/AOG_India-Esports_Org-orange?style=for-the-badge" /></a>
-  <a href="https://leetcode.com/myk220897/"><img src="https://img.shields.io/badge/LeetCode-myk220897-yellow?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/m-y-k-/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+### Software Development Engineer · Java & Spring Boot · Backend Engineering
+
+I build backend systems with Java and Spring Boot, with a strong interest in
+distributed systems, system design, databases, and scalable architectures.
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🏢 Currently **SDE at Flipkart**, working on backend systems at scale
-- 🛠️ Background in **financial-grade backend engineering** — Spring Boot microservices, Hibernate ORM, RDBMS performance tuning, distributed transaction systems
-- 🎮 Founder of **[AOG India](https://aogindia.com)** — an esports org running a roster of BGMI creators, handling brand sponsorships and community growth on the side
-- 📚 Pursuing MCA at Kurukshetra University
-- 🌱 Currently exploring system design at scale and real-time architectures
-- 📫 Reach me: **mohammad.yusufkhan12345@gmail.com**
+- 🏢 Currently working as an **SDE at Flipkart**, building backend solutions with **Java & Spring Boot**
+- ⚙️ Experienced with **Spring Boot, Hibernate/JPA, REST APIs, SQL, microservices, and backend integrations**
+- 🧩 Interested in **distributed systems, system design, database performance, and scalable architectures**
+- 🎮 Founder of [**AOG India**](https://aogindia.com/), an esports organization working with BGMI creators, brands, and gaming communities
+- 📚 Currently pursuing **MCA at Kurukshetra University**
+- 🌱 Currently exploring **system design, distributed systems, and real-time architectures**
+- 📫 Reach me at **mohammadyusufkhan12345@gmail.com**
 
 ---
 
 ### ⚙️ Tech Stack
 
-**Languages & Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+**Languages**
+
+Java · JavaScript · SQL
+
+**Backend**
+
+Spring Boot · Spring MVC · Spring Data JPA · Hibernate · REST APIs · Microservices
 
 **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**Frontend (Optional)**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+MySQL · SQL Server · MongoDB · Redis
 
-**DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+**Messaging & APIs**
+
+Apache Kafka · REST · Postman
+
+**Frontend**
+
+React · HTML · CSS · Bootstrap
+
+**Tools**
+
+Git · GitHub · GitLab · Maven · IntelliJ IDEA · VS Code
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 What I Build
+
+- 🔹 Java & Spring Boot backend services
+- 🔹 REST APIs and microservice-based applications
+- 🔹 Database-driven applications and integrations
+- 🔹 Event-driven and asynchronous workflows
+- 🔹 Third-party API integrations
+- 🔹 Automation tools for real-world business problems
+- 🔹 Full-stack applications when needed
+
+---
+
+### ⭐ Featured Project
+
+#### 🏥 Clinic & Medicine Inventory Management System
+
+A Java-based platform for doctors and staff to manage patient appointments,
+including support for multiple image uploads.
+
+**Tech:** Java · Spring Boot · MongoDB · REST APIs
+
+[View Project →](https://github.com/m-y-k/clinic-medicine-inventory-management-system)
+
+---
+
+### 🌱 Currently Learning
+
+- Distributed Systems
+- System Design
+- Event-Driven Architecture
+- High-Scale Backend Engineering
+- Database Optimization
+- Performance Engineering
+- Real-Time Systems
+
+---
+
+### 🎮 Beyond Code
+
+I also founded [**AOG India**](https://aogindia.com/), an esports organization
+working with BGMI creators, brands, and gaming communities.
+
+Alongside engineering, I work on partnerships, sponsorships, technology,
+and community growth.
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-y-k&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=m-y-k&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-y-k&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m-y-k&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-y-k&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### 🚀 Pinned Project
+### 🤝 Connect With Me
 
-**[clinic-medicine-inventory-management-system](https://github.com/m-y-k/clinic-medicine-inventory-management-system)**
-A web platform for doctors and staff to manage patient appointments with multi-image upload support — built in Java.
+<p align="left">
+
+<a href="https://github.com/m-y-k">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/m-y-k-">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/myk220897/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://aogindia.com/">
+<img src="https://img.shields.io/badge/AOG%20India-Website-black?style=for-the-badge"/>
+</a>
+
+<a href="mailto:mohammadyusufkhan12345@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-<p align="center"><i>Building backend systems by day, growing an esports community by night.</i></p>
+### ⚡ A little more about me
+
+```text
+Backend Engineering  →  Java · Spring Boot · Microservices
+Data                 →  SQL · MongoDB · Redis
+Architecture         →  Distributed Systems · System Design
+Problem Solving      →  Data Structures & Algorithms
+Outside Engineering  →  Esports · AOG India
