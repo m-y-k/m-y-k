@@ -77,148 +77,159 @@ and building real-world products from idea to deployment.
 
 <p align="center">
   <a href="https://aogindia.com/">
-    <img src="./assets/aogindia.png" width="100%" alt="AOG India"/>
+    <img src="./assets/aogindia.png" width="80%" alt="AOG India">
   </a>
 </p>
-
-### Founder · Builder · Operator
-
-**AOG India** is an esports and creator-focused platform connecting
-gaming creators, brands, and communities.
-
-I founded and continue to build AOG India alongside my software engineering
-career, working across technology, partnerships, sponsorships, and community
-growth.
-
-**Focus**
-
-`Esports` · `Creators` · `Brand Partnerships` · `Sponsorships` · `Community`
-
-🌐 [**Visit AOG India →**](https://aogindia.com/)  
-💻 [**View Repository →**](https://github.com/m-y-k/aogindia)
-
----
-
-## 💼 My Portfolio
 
 <p align="center">
-  <a href="https://mohammadyusufkhan.in/">
-    <img src="./assets/my-portfolio.png" width="100%" alt="Mohammad Yusuf Khan Portfolio"/>
-  </a>
+  <b>Founder · Builder · Platform</b>
 </p>
 
-A personal portfolio built to showcase my engineering experience,
+<p>
+AOG India is an esports and creator-focused platform connecting gaming
+creators, brands, and communities.
+</p>
+
+<p>
+<a href="https://aogindia.com/">🌐 Visit Website →</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/m-y-k/aogindia">💻 Repository →</a>
+</p>
+
+<hr>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💼 My Portfolio</h3>
+
+<a href="https://mohammadyusufkhan.in/">
+<img src="./assets/my-portfolio.png" width="100%" alt="My Portfolio">
+</a>
+
+<p>
+Personal developer portfolio showcasing my engineering experience,
 projects, skills, and work.
-
-**Tech**
-
-`HTML` · `CSS` · `JavaScript` · `AI`
-
-🌐 [**Visit Portfolio →**](https://mohammadyusufkhan.in/)  
-💻 [**View Repository →**](https://github.com/m-y-k/My-Portfolio)
-
----
-
-## 🍽️ Shalimar Restaurant
-
-<p align="center">
-  <a href="https://shalimar-restaurant-bdn.onrender.com/">
-    <img src="./assets/shalimar-restaurant.png" width="100%" alt="Shalimar Restaurant"/>
-  </a>
 </p>
 
-A full-stack restaurant website built for a local business, combining
-a modern frontend with a Java/Spring Boot backend and REST APIs.
-
-**Tech**
-
-`Java` · `Spring Boot` · `React` · `REST API`
-
-🌐 [**Visit Website →**](https://shalimar-restaurant-bdn.onrender.com/)  
-💻 [**View Repository →**](https://github.com/m-y-k/shalimar-restaurant-bdn)
-
----
-
-## 🚕 Faheem Cabs
-
-<p align="center">
-  <a href="https://faheem-cabs.onrender.com/">
-    <img src="./assets/faheem-cabs.png" width="100%" alt="Faheem Cabs"/>
-  </a>
+<p>
+<a href="https://mohammadyusufkhan.in/">🌐 Visit Website →</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/m-y-k/My-Portfolio">💻 Repository →</a>
 </p>
 
-A cab booking platform focused on travel between **Budaun and Delhi**,
-designed around a simple booking experience for local customers.
+</td>
 
-**Focus**
+<td width="50%" valign="top">
 
-`Cab Booking` · `Travel` · `Local Business`
+<h3>🍽️ Shalimar Restaurant</h3>
 
-🌐 [**Visit Website →**](https://faheem-cabs.onrender.com/)  
-💻 [**View Repository →**](https://github.com/m-y-k/faheem-cabs-demo)
+<a href="https://shalimar-restaurant-bdn.onrender.com/">
+<img src="./assets/shalimar-restaurant.png" width="100%" alt="Shalimar Restaurant">
+</a>
 
----
-
-## 👑 Tiger The Royal Signatures
-
-<p align="center">
-  <a href="https://tiger-the-royal-signatures-pvt-ltd.onrender.com/">
-    <img src="./assets/tiger-royal-signatures.png" width="100%" alt="Tiger The Royal Signatures"/>
-  </a>
+<p>
+Full-stack restaurant website built for a local business using
+Spring Boot, React, and REST APIs.
 </p>
 
-A business website built for **Tiger The Royal Signatures Pvt. Ltd.**,
-designed to establish an online presence and showcase the business.
-
-**Focus**
-
-`Business Website` · `Responsive Design` · `Web Development`
-
-🌐 [**Visit Website →**](https://tiger-the-royal-signatures-pvt-ltd.onrender.com/)  
-💻 [**View Repository →**](https://github.com/m-y-k/tiger-the-royal-signatures-pvt-ltd)
-
----
-
-# 🤖 Resilient Swarm GCS
-
-<p align="center">
-  <a href="https://github.com/m-y-k/resilient-swarm-gcs">
-    <img src="./assets/resilient-swarm-gcs.png" width="100%" alt="Resilient Swarm GCS"/>
-  </a>
+<p>
+<a href="https://shalimar-restaurant-bdn.onrender.com/">🌐 Visit Website →</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/m-y-k/shalimar-restaurant-bdn">💻 Repository →</a>
 </p>
 
-### Multi-Drone Mission Control & Real-Time Path Planning
+</td>
+</tr>
 
-A group of **10 drones** execute a mission after receiving waypoints
-on a map.
+<tr>
+<td width="50%" valign="top">
 
-The drones use a consensus-based mechanism to **elect a leader** and
-coordinate the mission. The system uses the **A\*** pathfinding algorithm
-to calculate routes, while continuously responding to obstacles during
-flight.
+<h3>🚕 Faheem Cabs</h3>
 
-When an obstacle appears, the system recalculates the path and updates
-the route in **real time**, allowing the swarm to adapt during the mission.
+<a href="https://faheem-cabs.onrender.com/">
+<img src="./assets/faheem-cabs.png" width="100%" alt="Faheem Cabs">
+</a>
 
-**Key Concepts**
+<p>
+Cab booking platform focused on convenient travel between
+Budaun and Delhi.
+</p>
 
-`Distributed Systems` · `Leader Election` · `Consensus` · `A* Pathfinding`
-· `Real-Time Systems` · `Multi-Agent Systems` · `Obstacle Avoidance`
+<p>
+<a href="https://faheem-cabs.onrender.com/">🌐 Visit Website →</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/m-y-k/faheem-cabs-demo">💻 Repository →</a>
+</p>
 
-**Highlights**
+</td>
 
-- 🛸 10-drone swarm mission
-- 🗺️ Waypoint-based mission planning
-- 👑 Consensus-based leader election
-- 🧭 A* pathfinding
-- ⚡ Real-time obstacle detection and path recalculation
-- 🔄 Dynamic route adaptation during mission execution
+<td width="50%" valign="top">
 
-**Tech**
+<h3>👑 Tiger The Royal Signatures</h3>
 
-`Java` · `A* Algorithm` · `Distributed Systems`
+<a href="https://tiger-the-royal-signatures-pvt-ltd.onrender.com/">
+<img src="./assets/tiger-royal-signatures.png" width="100%" alt="Tiger The Royal Signatures">
+</a>
 
-💻 [**View Repository →**](https://github.com/m-y-k/resilient-swarm-gcs)
+<p>
+Responsive business website built for Tiger The Royal Signatures
+Pvt. Ltd.
+</p>
+
+<p>
+<a href="https://tiger-the-royal-signatures-pvt-ltd.onrender.com/">🌐 Visit Website →</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/m-y-k/tiger-the-royal-signatures-pvt-ltd">💻 Repository →</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🍔 Rollz N' Zingz</h3>
+
+<a href="https://rollz-n-zingz.vercel.app/">
+<img src="./assets/rollz-n-zingz.png" width="100%" alt="Rollz N' Zingz">
+</a>
+
+<p>
+Online food ordering website featuring burgers, chicken momos,
+winger burgers, and other fast-food options.
+</p>
+
+<p>
+<a href="https://rollz-n-zingz.vercel.app/">🌐 Visit Website →</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/m-y-k/rollz-n-zingz">💻 Repository →</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🤖 Resilient Swarm GCS</h3>
+
+<a href="https://github.com/m-y-k/resilient-swarm-gcs">
+<img src="./assets/resilient-swarm-gcs.png" width="100%" alt="Resilient Swarm GCS">
+</a>
+
+<p>
+Self-healing ground control station for a 10-drone swarm with
+distributed leader election, sub-300ms failover, real-time A*
+obstacle avoidance, and mission-grade telemetry.
+</p>
+
+<p>
+<a href="https://github.com/m-y-k/resilient-swarm-gcs">💻 Repository →</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
