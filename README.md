@@ -77,7 +77,7 @@ and building real-world products from idea to deployment.
 
 <p align="center">
   <a href="https://aogindia.com/">
-    <img src="./assets/aogindia.png" width="80%" alt="AOG India">
+    <img src="./assets/aogindia1.png" width="80%" alt="AOG India">
   </a>
 </p>
 
